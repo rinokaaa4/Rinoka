@@ -1,0 +1,23 @@
+h1{
+    color: #A86523;
+}
+body{
+    background-color: #fcefcb;
+}
+.Introduction{
+    font-size: 20px;
+}
+.Background{
+    font-size: 20px;
+}
+.Hobbies{
+    font-size: 20px;
+}
+.Contact{
+    font-size: 20px;
+}
+img{
+    float: right;
+    margin-right: 10%;
+    margin-top:2%;
+}
